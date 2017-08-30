@@ -1,0 +1,852 @@
+{
+    "TagFilter":  [
+                      ""
+                  ],
+    "ExcludeTagFilter":  [
+                             ""
+                         ],
+    "TestNameFilter":  null,
+    "TotalCount":  5,
+    "PassedCount":  5,
+    "FailedCount":  0,
+    "SkippedCount":  0,
+    "PendingCount":  0,
+    "Time":  {
+                 "Ticks":  16029351,
+                 "Days":  0,
+                 "Hours":  0,
+                 "Milliseconds":  602,
+                 "Minutes":  0,
+                 "Seconds":  1,
+                 "TotalDays":  1.8552489583333331E-05,
+                 "TotalHours":  0.00044525974999999997,
+                 "TotalMilliseconds":  1602.9351000000001,
+                 "TotalMinutes":  0.026715585,
+                 "TotalSeconds":  1.6029350999999998
+             },
+    "TestResult":  [
+                       {
+                           "Describe":  "Public/Install-ModuleGit",
+                           "Context":  "",
+                           "Name":  "Github URL does not exist",
+                           "Result":  "Passed",
+                           "Passed":  true,
+                           "Time":  {
+                                        "Ticks":  14162485,
+                                        "Days":  0,
+                                        "Hours":  0,
+                                        "Milliseconds":  416,
+                                        "Minutes":  0,
+                                        "Seconds":  1,
+                                        "TotalDays":  1.6391765046296295E-05,
+                                        "TotalHours":  0.00039340236111111112,
+                                        "TotalMilliseconds":  1416.2485000000001,
+                                        "TotalMinutes":  0.023604141666666668,
+                                        "TotalSeconds":  1.4162485
+                                    },
+                           "FailureMessage":  "",
+                           "StackTrace":  "",
+                           "ErrorRecord":  null,
+                           "ParameterizedSuiteName":  "",
+                           "Parameters":  {
+
+                                          }
+                       },
+                       {
+                           "Describe":  "General project validation: InstallGitModule",
+                           "Context":  "",
+                           "Name":  "Script C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1 should be valid powershell",
+                           "Result":  "Passed",
+                           "Passed":  true,
+                           "Time":  {
+                                        "Ticks":  560612,
+                                        "Days":  0,
+                                        "Hours":  0,
+                                        "Milliseconds":  56,
+                                        "Minutes":  0,
+                                        "Seconds":  0,
+                                        "TotalDays":  6.4885648148148142E-07,
+                                        "TotalHours":  1.5572555555555555E-05,
+                                        "TotalMilliseconds":  56.0612,
+                                        "TotalMinutes":  0.00093435333333333334,
+                                        "TotalSeconds":  0.0560612
+                                    },
+                           "FailureMessage":  "",
+                           "StackTrace":  "",
+                           "ErrorRecord":  null,
+                           "ParameterizedSuiteName":  "Script \u003cfile\u003e should be valid powershell",
+                           "Parameters":  {
+                                              "file":  {
+                                                           "Name":  "Install-ModuleGit.ps1",
+                                                           "Length":  4957,
+                                                           "DirectoryName":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public",
+                                                           "Directory":  {
+                                                                             "Name":  "Public",
+                                                                             "FullName":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public",
+                                                                             "Parent":  "InstallGitModule",
+                                                                             "Exists":  true,
+                                                                             "Root":  "C:\\",
+                                                                             "Extension":  "",
+                                                                             "CreationTime":  "\/Date(1502851810748)\/",
+                                                                             "CreationTimeUtc":  "\/Date(1502851810748)\/",
+                                                                             "LastAccessTime":  "\/Date(1502854655544)\/",
+                                                                             "LastAccessTimeUtc":  "\/Date(1502854655544)\/",
+                                                                             "LastWriteTime":  "\/Date(1502854655544)\/",
+                                                                             "LastWriteTimeUtc":  "\/Date(1502854655544)\/",
+                                                                             "Attributes":  16
+                                                                         },
+                                                           "IsReadOnly":  false,
+                                                           "Exists":  true,
+                                                           "FullName":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                           "Extension":  ".ps1",
+                                                           "CreationTime":  "\/Date(1502853488981)\/",
+                                                           "CreationTimeUtc":  "\/Date(1502853488981)\/",
+                                                           "LastAccessTime":  "\/Date(1502853488981)\/",
+                                                           "LastAccessTimeUtc":  "\/Date(1502853488981)\/",
+                                                           "LastWriteTime":  "\/Date(1504061074770)\/",
+                                                           "LastWriteTimeUtc":  "\/Date(1504061074770)\/",
+                                                           "Attributes":  32,
+                                                           "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                           "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::C:\\git\\InstallGitModule\\InstallGitModule\\Public",
+                                                           "PSChildName":  "Install-ModuleGit.ps1",
+                                                           "PSDrive":  {
+                                                                           "CurrentLocation":  "git\\InstallGitModule",
+                                                                           "Name":  "C",
+                                                                           "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                                                           "Root":  "C:\\",
+                                                                           "Description":  "Windows 10",
+                                                                           "MaximumSize":  null,
+                                                                           "Credential":  "System.Management.Automation.PSCredential",
+                                                                           "DisplayRoot":  null
+                                                                       },
+                                                           "PSProvider":  {
+                                                                              "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                                                              "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                                                              "Name":  "FileSystem",
+                                                                              "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                                                              "ModuleName":  "Microsoft.PowerShell.Core",
+                                                                              "Module":  null,
+                                                                              "Description":  "",
+                                                                              "Capabilities":  52,
+                                                                              "Home":  "C:\\Users\\vagrant",
+                                                                              "Drives":  "C D X Y Z"
+                                                                          },
+                                                           "PSIsContainer":  false,
+                                                           "Mode":  "-a----",
+                                                           "VersionInfo":  {
+                                                                               "Comments":  null,
+                                                                               "CompanyName":  null,
+                                                                               "FileBuildPart":  0,
+                                                                               "FileDescription":  null,
+                                                                               "FileMajorPart":  0,
+                                                                               "FileMinorPart":  0,
+                                                                               "FileName":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                                               "FilePrivatePart":  0,
+                                                                               "FileVersion":  null,
+                                                                               "InternalName":  null,
+                                                                               "IsDebug":  false,
+                                                                               "IsPatched":  false,
+                                                                               "IsPrivateBuild":  false,
+                                                                               "IsPreRelease":  false,
+                                                                               "IsSpecialBuild":  false,
+                                                                               "Language":  null,
+                                                                               "LegalCopyright":  null,
+                                                                               "LegalTrademarks":  null,
+                                                                               "OriginalFilename":  null,
+                                                                               "PrivateBuild":  null,
+                                                                               "ProductBuildPart":  0,
+                                                                               "ProductMajorPart":  0,
+                                                                               "ProductMinorPart":  0,
+                                                                               "ProductName":  null,
+                                                                               "ProductPrivatePart":  0,
+                                                                               "ProductVersion":  null,
+                                                                               "SpecialBuild":  null,
+                                                                               "FileVersionRaw":  "0.0.0.0",
+                                                                               "ProductVersionRaw":  "0.0.0.0"
+                                                                           },
+                                                           "BaseName":  "Install-ModuleGit",
+                                                           "Target":  [
+
+                                                                      ],
+                                                           "LinkType":  null
+                                                       }
+                                          }
+                       },
+                       {
+                           "Describe":  "General project validation: InstallGitModule",
+                           "Context":  "",
+                           "Name":  "Script C:\\git\\InstallGitModule\\InstallGitModule\\InstallGitModule.psd1 should be valid powershell",
+                           "Result":  "Passed",
+                           "Passed":  true,
+                           "Time":  {
+                                        "Ticks":  436248,
+                                        "Days":  0,
+                                        "Hours":  0,
+                                        "Milliseconds":  43,
+                                        "Minutes":  0,
+                                        "Seconds":  0,
+                                        "TotalDays":  5.0491666666666663E-07,
+                                        "TotalHours":  1.2118E-05,
+                                        "TotalMilliseconds":  43.6248,
+                                        "TotalMinutes":  0.00072708000000000007,
+                                        "TotalSeconds":  0.0436248
+                                    },
+                           "FailureMessage":  "",
+                           "StackTrace":  "",
+                           "ErrorRecord":  null,
+                           "ParameterizedSuiteName":  "Script \u003cfile\u003e should be valid powershell",
+                           "Parameters":  {
+                                              "file":  {
+                                                           "Name":  "InstallGitModule.psd1",
+                                                           "Length":  4038,
+                                                           "DirectoryName":  "C:\\git\\InstallGitModule\\InstallGitModule",
+                                                           "Directory":  {
+                                                                             "Name":  "InstallGitModule",
+                                                                             "FullName":  "C:\\git\\InstallGitModule\\InstallGitModule",
+                                                                             "Parent":  "InstallGitModule",
+                                                                             "Exists":  true,
+                                                                             "Root":  "C:\\",
+                                                                             "Extension":  "",
+                                                                             "CreationTime":  "\/Date(1502851810342)\/",
+                                                                             "CreationTimeUtc":  "\/Date(1502851810342)\/",
+                                                                             "LastAccessTime":  "\/Date(1502851810857)\/",
+                                                                             "LastAccessTimeUtc":  "\/Date(1502851810857)\/",
+                                                                             "LastWriteTime":  "\/Date(1502851810857)\/",
+                                                                             "LastWriteTimeUtc":  "\/Date(1502851810857)\/",
+                                                                             "Attributes":  16
+                                                                         },
+                                                           "IsReadOnly":  false,
+                                                           "Exists":  true,
+                                                           "FullName":  "C:\\git\\InstallGitModule\\InstallGitModule\\InstallGitModule.psd1",
+                                                           "Extension":  ".psd1",
+                                                           "CreationTime":  "\/Date(1502851810404)\/",
+                                                           "CreationTimeUtc":  "\/Date(1502851810404)\/",
+                                                           "LastAccessTime":  "\/Date(1502851810404)\/",
+                                                           "LastAccessTimeUtc":  "\/Date(1502851810404)\/",
+                                                           "LastWriteTime":  "\/Date(1504054735169)\/",
+                                                           "LastWriteTimeUtc":  "\/Date(1504054735169)\/",
+                                                           "Attributes":  32,
+                                                           "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::C:\\git\\InstallGitModule\\InstallGitModule\\InstallGitModule.psd1",
+                                                           "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::C:\\git\\InstallGitModule\\InstallGitModule",
+                                                           "PSChildName":  "InstallGitModule.psd1",
+                                                           "PSDrive":  {
+                                                                           "CurrentLocation":  "git\\InstallGitModule",
+                                                                           "Name":  "C",
+                                                                           "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                                                           "Root":  "C:\\",
+                                                                           "Description":  "Windows 10",
+                                                                           "MaximumSize":  null,
+                                                                           "Credential":  "System.Management.Automation.PSCredential",
+                                                                           "DisplayRoot":  null
+                                                                       },
+                                                           "PSProvider":  {
+                                                                              "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                                                              "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                                                              "Name":  "FileSystem",
+                                                                              "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                                                              "ModuleName":  "Microsoft.PowerShell.Core",
+                                                                              "Module":  null,
+                                                                              "Description":  "",
+                                                                              "Capabilities":  52,
+                                                                              "Home":  "C:\\Users\\vagrant",
+                                                                              "Drives":  "C D X Y Z"
+                                                                          },
+                                                           "PSIsContainer":  false,
+                                                           "Mode":  "-a----",
+                                                           "VersionInfo":  {
+                                                                               "Comments":  null,
+                                                                               "CompanyName":  null,
+                                                                               "FileBuildPart":  0,
+                                                                               "FileDescription":  null,
+                                                                               "FileMajorPart":  0,
+                                                                               "FileMinorPart":  0,
+                                                                               "FileName":  "C:\\git\\InstallGitModule\\InstallGitModule\\InstallGitModule.psd1",
+                                                                               "FilePrivatePart":  0,
+                                                                               "FileVersion":  null,
+                                                                               "InternalName":  null,
+                                                                               "IsDebug":  false,
+                                                                               "IsPatched":  false,
+                                                                               "IsPrivateBuild":  false,
+                                                                               "IsPreRelease":  false,
+                                                                               "IsSpecialBuild":  false,
+                                                                               "Language":  null,
+                                                                               "LegalCopyright":  null,
+                                                                               "LegalTrademarks":  null,
+                                                                               "OriginalFilename":  null,
+                                                                               "PrivateBuild":  null,
+                                                                               "ProductBuildPart":  0,
+                                                                               "ProductMajorPart":  0,
+                                                                               "ProductMinorPart":  0,
+                                                                               "ProductName":  null,
+                                                                               "ProductPrivatePart":  0,
+                                                                               "ProductVersion":  null,
+                                                                               "SpecialBuild":  null,
+                                                                               "FileVersionRaw":  "0.0.0.0",
+                                                                               "ProductVersionRaw":  "0.0.0.0"
+                                                                           },
+                                                           "BaseName":  "InstallGitModule",
+                                                           "Target":  [
+
+                                                                      ],
+                                                           "LinkType":  null
+                                                       }
+                                          }
+                       },
+                       {
+                           "Describe":  "General project validation: InstallGitModule",
+                           "Context":  "",
+                           "Name":  "Script C:\\git\\InstallGitModule\\InstallGitModule\\InstallGitModule.psm1 should be valid powershell",
+                           "Result":  "Passed",
+                           "Passed":  true,
+                           "Time":  {
+                                        "Ticks":  452953,
+                                        "Days":  0,
+                                        "Hours":  0,
+                                        "Milliseconds":  45,
+                                        "Minutes":  0,
+                                        "Seconds":  0,
+                                        "TotalDays":  5.2425115740740735E-07,
+                                        "TotalHours":  1.2582027777777778E-05,
+                                        "TotalMilliseconds":  45.295300000000005,
+                                        "TotalMinutes":  0.00075492166666666673,
+                                        "TotalSeconds":  0.0452953
+                                    },
+                           "FailureMessage":  "",
+                           "StackTrace":  "",
+                           "ErrorRecord":  null,
+                           "ParameterizedSuiteName":  "Script \u003cfile\u003e should be valid powershell",
+                           "Parameters":  {
+                                              "file":  {
+                                                           "Name":  "InstallGitModule.psm1",
+                                                           "Length":  650,
+                                                           "DirectoryName":  "C:\\git\\InstallGitModule\\InstallGitModule",
+                                                           "Directory":  {
+                                                                             "Name":  "InstallGitModule",
+                                                                             "FullName":  "C:\\git\\InstallGitModule\\InstallGitModule",
+                                                                             "Parent":  "InstallGitModule",
+                                                                             "Exists":  true,
+                                                                             "Root":  "C:\\",
+                                                                             "Extension":  "",
+                                                                             "CreationTime":  "\/Date(1502851810342)\/",
+                                                                             "CreationTimeUtc":  "\/Date(1502851810342)\/",
+                                                                             "LastAccessTime":  "\/Date(1502851810857)\/",
+                                                                             "LastAccessTimeUtc":  "\/Date(1502851810857)\/",
+                                                                             "LastWriteTime":  "\/Date(1502851810857)\/",
+                                                                             "LastWriteTimeUtc":  "\/Date(1502851810857)\/",
+                                                                             "Attributes":  16
+                                                                         },
+                                                           "IsReadOnly":  false,
+                                                           "Exists":  true,
+                                                           "FullName":  "C:\\git\\InstallGitModule\\InstallGitModule\\InstallGitModule.psm1",
+                                                           "Extension":  ".psm1",
+                                                           "CreationTime":  "\/Date(1502851810560)\/",
+                                                           "CreationTimeUtc":  "\/Date(1502851810560)\/",
+                                                           "LastAccessTime":  "\/Date(1502851810560)\/",
+                                                           "LastAccessTimeUtc":  "\/Date(1502851810560)\/",
+                                                           "LastWriteTime":  "\/Date(1502853425825)\/",
+                                                           "LastWriteTimeUtc":  "\/Date(1502853425825)\/",
+                                                           "Attributes":  32,
+                                                           "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::C:\\git\\InstallGitModule\\InstallGitModule\\InstallGitModule.psm1",
+                                                           "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::C:\\git\\InstallGitModule\\InstallGitModule",
+                                                           "PSChildName":  "InstallGitModule.psm1",
+                                                           "PSDrive":  {
+                                                                           "CurrentLocation":  "git\\InstallGitModule",
+                                                                           "Name":  "C",
+                                                                           "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                                                           "Root":  "C:\\",
+                                                                           "Description":  "Windows 10",
+                                                                           "MaximumSize":  null,
+                                                                           "Credential":  "System.Management.Automation.PSCredential",
+                                                                           "DisplayRoot":  null
+                                                                       },
+                                                           "PSProvider":  {
+                                                                              "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                                                              "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                                                              "Name":  "FileSystem",
+                                                                              "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                                                              "ModuleName":  "Microsoft.PowerShell.Core",
+                                                                              "Module":  null,
+                                                                              "Description":  "",
+                                                                              "Capabilities":  52,
+                                                                              "Home":  "C:\\Users\\vagrant",
+                                                                              "Drives":  "C D X Y Z"
+                                                                          },
+                                                           "PSIsContainer":  false,
+                                                           "Mode":  "-a----",
+                                                           "VersionInfo":  {
+                                                                               "Comments":  null,
+                                                                               "CompanyName":  null,
+                                                                               "FileBuildPart":  0,
+                                                                               "FileDescription":  null,
+                                                                               "FileMajorPart":  0,
+                                                                               "FileMinorPart":  0,
+                                                                               "FileName":  "C:\\git\\InstallGitModule\\InstallGitModule\\InstallGitModule.psm1",
+                                                                               "FilePrivatePart":  0,
+                                                                               "FileVersion":  null,
+                                                                               "InternalName":  null,
+                                                                               "IsDebug":  false,
+                                                                               "IsPatched":  false,
+                                                                               "IsPrivateBuild":  false,
+                                                                               "IsPreRelease":  false,
+                                                                               "IsSpecialBuild":  false,
+                                                                               "Language":  null,
+                                                                               "LegalCopyright":  null,
+                                                                               "LegalTrademarks":  null,
+                                                                               "OriginalFilename":  null,
+                                                                               "PrivateBuild":  null,
+                                                                               "ProductBuildPart":  0,
+                                                                               "ProductMajorPart":  0,
+                                                                               "ProductMinorPart":  0,
+                                                                               "ProductName":  null,
+                                                                               "ProductPrivatePart":  0,
+                                                                               "ProductVersion":  null,
+                                                                               "SpecialBuild":  null,
+                                                                               "FileVersionRaw":  "0.0.0.0",
+                                                                               "ProductVersionRaw":  "0.0.0.0"
+                                                                           },
+                                                           "BaseName":  "InstallGitModule",
+                                                           "Target":  [
+
+                                                                      ],
+                                                           "LinkType":  null
+                                                       }
+                                          }
+                       },
+                       {
+                           "Describe":  "General project validation: InstallGitModule",
+                           "Context":  "",
+                           "Name":  "Module \u0027InstallGitModule\u0027 can import cleanly",
+                           "Result":  "Passed",
+                           "Passed":  true,
+                           "Time":  {
+                                        "Ticks":  417053,
+                                        "Days":  0,
+                                        "Hours":  0,
+                                        "Milliseconds":  41,
+                                        "Minutes":  0,
+                                        "Seconds":  0,
+                                        "TotalDays":  4.8270023148148142E-07,
+                                        "TotalHours":  1.1584805555555556E-05,
+                                        "TotalMilliseconds":  41.7053,
+                                        "TotalMinutes":  0.00069508833333333333,
+                                        "TotalSeconds":  0.0417053
+                                    },
+                           "FailureMessage":  "",
+                           "StackTrace":  "",
+                           "ErrorRecord":  null,
+                           "ParameterizedSuiteName":  "",
+                           "Parameters":  {
+
+                                          }
+                       }
+                   ],
+    "CodeCoverage":  {
+                         "NumberOfCommandsAnalyzed":  66,
+                         "NumberOfFilesAnalyzed":  1,
+                         "NumberOfCommandsExecuted":  18,
+                         "NumberOfCommandsMissed":  48,
+                         "MissedCommands":  [
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  41,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$GitHubRepo = $null"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  42,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "if($ProjectUri.OriginalString.StartsWith(\"https://github.com\")) {\r\n                $GitHubRepo = $ProjectUri.AbsolutePath\r\n            } else {\r\n                $name=$ProjectUri.LocalPath.split(\u0027/\u0027)[-1]\r\n                Write-Output (\"Module [{0}]: not installed, it is not hosted on GitHub \" -f $name)\r\n            }"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  43,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$GitHubRepo = $ProjectUri.AbsolutePath"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  45,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$name=$ProjectUri.LocalPath.split(\u0027/\u0027)[-1]"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  46,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Write-Output (\"Module [{0}]: not installed, it is not hosted on GitHub \" -f $name)"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  46,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "\"Module [{0}]: not installed, it is not hosted on GitHub \" -f $name"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  64,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Invoke-RestMethod $url -OutFile $OutFile"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  69,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Unblock-File $OutFile"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  72,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$outDirectory = New-Item -Path $tmpDir -Name $targetModuleName -ItemType \"directory\" -Force"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  73,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Expand-Archive -Path $OutFile -DestinationPath $outDirectory -Force"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  74,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Write-Debug \"targetModule: $targetModuleName\""
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  76,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "if ($IsLinux -or $IsOSX) {\r\n                  $dest = Join-Path -Path $HOME -ChildPath \".local/share/powershell/Modules\"\r\n                }\r\n\r\n                else {\r\n                  $dest = \u0027C:\\Program Files\\WindowsPowerShell\\Modules\u0027\r\n                }"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  77,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$dest = Join-Path -Path $HOME -ChildPath \".local/share/powershell/Modules\""
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  81,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$dest = \u0027C:\\Program Files\\WindowsPowerShell\\Modules\u0027"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  84,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "if($DestinationPath) {\r\n                    $dest = $DestinationPath\r\n                }"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  85,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$dest = $DestinationPath"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  88,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "if ($IsLinux -or $IsOSX) {\r\n                  $destPathArray = $env:PSModulePath.Split(\":\")\r\n                }\r\n\r\n                else {\r\n                  $destPathArray = $env:PSModulePath.Split(\"{;}\")\r\n                }"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  89,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$destPathArray = $env:PSModulePath.Split(\":\")"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  93,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$destPathArray = $env:PSModulePath.Split(\"{;}\")"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  97,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Write-Debug \"Current value of -Scope: $Scope\""
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  98,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "if ($Scope -eq \u0027AllUsers\u0027) {\r\n\t\t\t\t\t$scopeDest = \u0027\\ProgramFiles\\WindowsPowerShell\\Modules\u0027\r\n\t\t\t\t}\r\n\t\t\t\telse {\r\n\t\t\t\t\t$scopeDest = $HOME\r\n\t\t\t\t}"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  99,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$scopeDest = \u0027\\ProgramFiles\\WindowsPowerShell\\Modules\u0027"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  102,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$scopeDest = $HOME"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  104,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Write-Debug \"Current scope dest: $scopeDest\""
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  106,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$destPathArray"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  107,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "if ($_.Contains($scopeDest)) {\r\n\t\t\t\t\t\t$dest = $_\r\n\t\t\t\t\t\tbreak\r\n\t\t\t\t\t}"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  108,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$dest = $_"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  112,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Write-Debug \"Current dest: $dest\""
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  114,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$psd1Modules = @(Get-ChildItem -Path $outDirectory -Include *.psd1 -Recurse)"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  114,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Get-ChildItem -Path $outDirectory -Include *.psd1 -Recurse"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  116,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$psd1Modules"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  117,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$moduleDest = Join-Path -Path $_.Name.split(\u0027.\u0027)[0] -ChildPath (Import-PowerShellDataFile $_.FullName).ModuleVersion"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  117,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Import-PowerShellDataFile $_.FullName"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  118,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$moduleDest = Join-Path -Path $dest -ChildPath $moduleDest"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  119,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "if (Test-Path $moduleDest) { Remove-Item -Path $moduleDest -Recurse }"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  119,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Remove-Item -Path $moduleDest -Recurse"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  120,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Copy-Item $_.DirectoryName -Destination $moduleDest -Recurse -Force"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  123,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$dest = Join-Path -Path $dest -ChildPath $targetModuleName"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  124,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Write-Debug \"dest: $dest\""
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  126,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "if ($psd1Modules.Count -eq 0) {\r\n\t\t\t\t\tWhile ($outDirectory.GetDirectories().Length -eq 1 -and $outDirectory.GetFiles().Length -eq 0) {\r\n\t\t\t\t\t\t$outDirectory = (Get-ChildItem $outDirectory)\r\n\t\t\t\t\t\tif (Test-Path $dest) {\r\n\t\t\t\t\t\t\tGet-ChildItem -Path $dest -Recurse | Remove-Item -Recurse -Force\r\n\t\t\t\t\t\t\tRemove-Item $dest -Force\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\t\tCopy-Item -Path $outDirectory.FullName -Destination $dest -Force -Recurse\r\n\t\t\t\t\t}\r\n\t\t\t\t}"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  127,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$outDirectory.GetDirectories().Length -eq 1 -and $outDirectory.GetFiles().Length -eq 0"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  128,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "$outDirectory = (Get-ChildItem $outDirectory)"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  128,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Get-ChildItem $outDirectory"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  129,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "if (Test-Path $dest) {\r\n\t\t\t\t\t\t\tGet-ChildItem -Path $dest -Recurse | Remove-Item -Recurse -Force\r\n\t\t\t\t\t\t\tRemove-Item $dest -Force\r\n\t\t\t\t\t\t}"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  130,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Get-ChildItem -Path $dest -Recurse"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  130,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Remove-Item -Recurse -Force"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  131,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Remove-Item $dest -Force"
+                                                },
+                                                {
+                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                    "Line":  133,
+                                                    "Function":  "Install-ModuleGit",
+                                                    "Command":  "Copy-Item -Path $outDirectory.FullName -Destination $dest -Force -Recurse"
+                                                }
+                                            ],
+                         "HitCommands":  [
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  1,
+                                                 "Function":  "",
+                                                 "Command":  "Set-StrictMode -Version Latest"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  3,
+                                                 "Function":  "",
+                                                 "Command":  "if ($PSVersionTable.PSEdition -ne \"Core\") {\r\n\t$IsLinux = $false\r\n\t$IsOSX = $false\r\n}"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  4,
+                                                 "Function":  "",
+                                                 "Command":  "$IsLinux = $false"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  5,
+                                                 "Function":  "",
+                                                 "Command":  "$IsOSX = $false"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  40,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "if($PSBoundParameters.ContainsKey(\"ProjectUri\")) {\r\n            $GitHubRepo = $null\r\n            if($ProjectUri.OriginalString.StartsWith(\"https://github.com\")) {\r\n                $GitHubRepo = $ProjectUri.AbsolutePath\r\n            } else {\r\n                $name=$ProjectUri.LocalPath.split(\u0027/\u0027)[-1]\r\n                Write-Output (\"Module [{0}]: not installed, it is not hosted on GitHub \" -f $name)\r\n            }\r\n        }"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  50,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "if($GitHubRepo) {\r\n                Write-Verbose (\"[$(Get-Date)] Retrieving {0} {1}\" -f $GitHubRepo, $Branch)\r\n\r\n                $url = \"https://github.com/{0}/archive/{1}.zip\" -f $GitHubRepo, $Branch\r\n                $targetModuleName=$GitHubRepo.split(\u0027/\u0027)[-1]\r\n                Write-Debug \"targetModuleName: $targetModuleName\"\r\n\r\n                $tmpDir = [System.IO.Path]::GetTempPath()\r\n\r\n                $OutFile = Join-Path -Path $tmpDir -ChildPath \"$($targetModuleName).zip\"\r\n                Write-Debug \"OutFile: $OutFile\"\r\n\r\n\r\n                if ($IsLinux -or $IsOSX) {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                }\r\n\r\n                else {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                  Unblock-File $OutFile\r\n                }\r\n\t\t\t\t\r\n\t\t\t\t$outDirectory = New-Item -Path $tmpDir -Name $targetModuleName -ItemType \"directory\" -Force\r\n                Expand-Archive -Path $OutFile -DestinationPath $outDirectory -Force\r\n                Write-Debug \"targetModule: $targetModuleName\"\r\n\r\n                if ($IsLinux -or $IsOSX) {\r\n                  $dest = Join-Path -Path $HOME -ChildPath \".local/share/powershell/Modules\"\r\n                }\r\n\r\n                else {\r\n                  $dest = \u0027C:\\Program Files\\WindowsPowerShell\\Modules\u0027\r\n                }\r\n\r\n                if($DestinationPath) {\r\n                    $dest = $DestinationPath\r\n                }\r\n\t\t\t\t\r\n\t\t\t\tif ($IsLinux -or $IsOSX) {\r\n                  $destPathArray = $env:PSModulePath.Split(\":\")\r\n                }\r\n\r\n                else {\r\n                  $destPathArray = $env:PSModulePath.Split(\"{;}\")\r\n                }\r\n\t\t\t\t\r\n\t\t\t\t# Selecting which scope we\u0027ll go for\r\n\t\t\t\tWrite-Debug \"Current value of -Scope: $Scope\"\r\n\t\t\t\tif ($Scope -eq \u0027AllUsers\u0027) {\r\n\t\t\t\t\t$scopeDest = \u0027\\ProgramFiles\\WindowsPowerShell\\Modules\u0027\r\n\t\t\t\t}\r\n\t\t\t\telse {\r\n\t\t\t\t\t$scopeDest = $HOME\r\n\t\t\t\t}\r\n\t\t\t\tWrite-Debug \"Current scope dest: $scopeDest\" \r\n\t\t\t\t\r\n\t\t\t\tforeach ($_ in $destPathArray) {\r\n\t\t\t\t\tif ($_.Contains($scopeDest)) {\r\n\t\t\t\t\t\t$dest = $_\r\n\t\t\t\t\t\tbreak\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t\tWrite-Debug \"Current dest: $dest\"\r\n\t\t\t\t\r\n\t\t\t\t$psd1Modules = @(Get-ChildItem -Path $outDirectory -Include *.psd1 -Recurse)\r\n\t\t\t\t\r\n\t\t\t\tforeach ($_ in $psd1Modules) {\r\n\t\t\t\t\t$moduleDest = Join-Path -Path $_.Name.split(\u0027.\u0027)[0] -ChildPath (Import-PowerShellDataFile $_.FullName).ModuleVersion\r\n\t\t\t\t\t$moduleDest = Join-Path -Path $dest -ChildPath $moduleDest\r\n\t\t\t\t\tif (Test-Path $moduleDest) { Remove-Item -Path $moduleDest -Recurse }\r\n\t\t\t\t\tCopy-Item $_.DirectoryName -Destination $moduleDest -Recurse -Force\r\n\t\t\t\t}\r\n\t\t\t\t\r\n\t\t\t\t$dest = Join-Path -Path $dest -ChildPath $targetModuleName\r\n\t\t\t\tWrite-Debug \"dest: $dest\"\r\n\t\t\t\t\r\n\t\t\t\tif ($psd1Modules.Count -eq 0) {\r\n\t\t\t\t\tWhile ($outDirectory.GetDirectories().Length -eq 1 -and $outDirectory.GetFiles().Length -eq 0) {\r\n\t\t\t\t\t\t$outDirectory = (Get-ChildItem $outDirectory)\r\n\t\t\t\t\t\tif (Test-Path $dest) {\r\n\t\t\t\t\t\t\tGet-ChildItem -Path $dest -Recurse | Remove-Item -Recurse -Force\r\n\t\t\t\t\t\t\tRemove-Item $dest -Force\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\t\tCopy-Item -Path $outDirectory.FullName -Destination $dest -Force -Recurse\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t\t\r\n        }"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  51,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "Write-Verbose (\"[$(Get-Date)] Retrieving {0} {1}\" -f $GitHubRepo, $Branch)"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  51,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "\"[$(Get-Date)] Retrieving {0} {1}\" -f $GitHubRepo, $Branch"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  51,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "Get-Date"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  53,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "$url = \"https://github.com/{0}/archive/{1}.zip\" -f $GitHubRepo, $Branch"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  54,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "$targetModuleName=$GitHubRepo.split(\u0027/\u0027)[-1]"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  55,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "Write-Debug \"targetModuleName: $targetModuleName\""
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  57,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "$tmpDir = [System.IO.Path]::GetTempPath()"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  59,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "$OutFile = Join-Path -Path $tmpDir -ChildPath \"$($targetModuleName).zip\""
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  59,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "$targetModuleName"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  60,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "Write-Debug \"OutFile: $OutFile\""
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  63,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "if ($IsLinux -or $IsOSX) {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                }\r\n\r\n                else {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                  Unblock-File $OutFile\r\n                }"
+                                             },
+                                             {
+                                                 "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
+                                                 "Line":  68,
+                                                 "Function":  "Install-ModuleGit",
+                                                 "Command":  "Invoke-RestMethod $url -OutFile $OutFile"
+                                             }
+                                         ],
+                         "AnalyzedFiles":  [
+                                               "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1"
+                                           ]
+                     }
+}
