@@ -29,7 +29,6 @@ function Install-ModuleGit {
         $Branch = "master",
         [Parameter(ValueFromPipelineByPropertyName)]
         $ProjectUri,
-        $DestinationPath,
 		
 		# The scope of module installation
 		[ValidateSet('CurrentUser', 'AllUsers')]
@@ -72,18 +71,6 @@ function Install-ModuleGit {
 				$outDirectory = New-Item -Path $tmpDir -Name $targetModuleName -ItemType "directory" -Force
                 Expand-Archive -Path $OutFile -DestinationPath $outDirectory -Force
                 Write-Debug "targetModule: $targetModuleName"
-
-                if ($IsLinux -or $IsOSX) {
-                  $dest = Join-Path -Path $HOME -ChildPath ".local/share/powershell/Modules"
-                }
-
-                else {
-                  $dest = 'C:\Program Files\WindowsPowerShell\Modules'
-                }
-
-                if($DestinationPath) {
-                    $dest = $DestinationPath
-                }
 				
 				if ($IsLinux -or $IsOSX) {
                   $destPathArray = $env:PSModulePath.Split(":")

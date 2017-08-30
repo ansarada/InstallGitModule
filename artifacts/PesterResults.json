@@ -12,17 +12,17 @@
     "SkippedCount":  0,
     "PendingCount":  0,
     "Time":  {
-                 "Ticks":  16029351,
+                 "Ticks":  20111825,
                  "Days":  0,
                  "Hours":  0,
-                 "Milliseconds":  602,
+                 "Milliseconds":  11,
                  "Minutes":  0,
-                 "Seconds":  1,
-                 "TotalDays":  1.8552489583333331E-05,
-                 "TotalHours":  0.00044525974999999997,
-                 "TotalMilliseconds":  1602.9351000000001,
-                 "TotalMinutes":  0.026715585,
-                 "TotalSeconds":  1.6029350999999998
+                 "Seconds":  2,
+                 "TotalDays":  2.3277575231481481E-05,
+                 "TotalHours":  0.00055866180555555554,
+                 "TotalMilliseconds":  2011.1825000000001,
+                 "TotalMinutes":  0.033519708333333335,
+                 "TotalSeconds":  2.0111825
              },
     "TestResult":  [
                        {
@@ -32,17 +32,17 @@
                            "Result":  "Passed",
                            "Passed":  true,
                            "Time":  {
-                                        "Ticks":  14162485,
+                                        "Ticks":  18230045,
                                         "Days":  0,
                                         "Hours":  0,
-                                        "Milliseconds":  416,
+                                        "Milliseconds":  823,
                                         "Minutes":  0,
                                         "Seconds":  1,
-                                        "TotalDays":  1.6391765046296295E-05,
-                                        "TotalHours":  0.00039340236111111112,
-                                        "TotalMilliseconds":  1416.2485000000001,
-                                        "TotalMinutes":  0.023604141666666668,
-                                        "TotalSeconds":  1.4162485
+                                        "TotalDays":  2.1099589120370368E-05,
+                                        "TotalHours":  0.0005063901388888889,
+                                        "TotalMilliseconds":  1823.0045,
+                                        "TotalMinutes":  0.030383408333333334,
+                                        "TotalSeconds":  1.8230045
                                     },
                            "FailureMessage":  "",
                            "StackTrace":  "",
@@ -59,17 +59,17 @@
                            "Result":  "Passed",
                            "Passed":  true,
                            "Time":  {
-                                        "Ticks":  560612,
+                                        "Ticks":  554863,
                                         "Days":  0,
                                         "Hours":  0,
-                                        "Milliseconds":  56,
+                                        "Milliseconds":  55,
                                         "Minutes":  0,
                                         "Seconds":  0,
-                                        "TotalDays":  6.4885648148148142E-07,
-                                        "TotalHours":  1.5572555555555555E-05,
-                                        "TotalMilliseconds":  56.0612,
-                                        "TotalMinutes":  0.00093435333333333334,
-                                        "TotalSeconds":  0.0560612
+                                        "TotalDays":  6.4220254629629625E-07,
+                                        "TotalHours":  1.5412861111111112E-05,
+                                        "TotalMilliseconds":  55.4863,
+                                        "TotalMinutes":  0.00092477166666666665,
+                                        "TotalSeconds":  0.055486299999999995
                                     },
                            "FailureMessage":  "",
                            "StackTrace":  "",
@@ -78,7 +78,7 @@
                            "Parameters":  {
                                               "file":  {
                                                            "Name":  "Install-ModuleGit.ps1",
-                                                           "Length":  4957,
+                                                           "Length":  4547,
                                                            "DirectoryName":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public",
                                                            "Directory":  {
                                                                              "Name":  "Public",
@@ -103,8 +103,8 @@
                                                            "CreationTimeUtc":  "\/Date(1502853488981)\/",
                                                            "LastAccessTime":  "\/Date(1502853488981)\/",
                                                            "LastAccessTimeUtc":  "\/Date(1502853488981)\/",
-                                                           "LastWriteTime":  "\/Date(1504061074770)\/",
-                                                           "LastWriteTimeUtc":  "\/Date(1504061074770)\/",
+                                                           "LastWriteTime":  "\/Date(1504061420254)\/",
+                                                           "LastWriteTimeUtc":  "\/Date(1504061420254)\/",
                                                            "Attributes":  32,
                                                            "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
                                                            "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::C:\\git\\InstallGitModule\\InstallGitModule\\Public",
@@ -179,17 +179,17 @@
                            "Result":  "Passed",
                            "Passed":  true,
                            "Time":  {
-                                        "Ticks":  436248,
+                                        "Ticks":  408724,
                                         "Days":  0,
                                         "Hours":  0,
-                                        "Milliseconds":  43,
+                                        "Milliseconds":  40,
                                         "Minutes":  0,
                                         "Seconds":  0,
-                                        "TotalDays":  5.0491666666666663E-07,
-                                        "TotalHours":  1.2118E-05,
-                                        "TotalMilliseconds":  43.6248,
-                                        "TotalMinutes":  0.00072708000000000007,
-                                        "TotalSeconds":  0.0436248
+                                        "TotalDays":  4.7306018518518518E-07,
+                                        "TotalHours":  1.1353444444444444E-05,
+                                        "TotalMilliseconds":  40.8724,
+                                        "TotalMinutes":  0.00068120666666666671,
+                                        "TotalSeconds":  0.040872399999999996
                                     },
                            "FailureMessage":  "",
                            "StackTrace":  "",
@@ -299,17 +299,17 @@
                            "Result":  "Passed",
                            "Passed":  true,
                            "Time":  {
-                                        "Ticks":  452953,
+                                        "Ticks":  371364,
                                         "Days":  0,
                                         "Hours":  0,
-                                        "Milliseconds":  45,
+                                        "Milliseconds":  37,
                                         "Minutes":  0,
                                         "Seconds":  0,
-                                        "TotalDays":  5.2425115740740735E-07,
-                                        "TotalHours":  1.2582027777777778E-05,
-                                        "TotalMilliseconds":  45.295300000000005,
-                                        "TotalMinutes":  0.00075492166666666673,
-                                        "TotalSeconds":  0.0452953
+                                        "TotalDays":  4.2981944444444445E-07,
+                                        "TotalHours":  1.0315666666666667E-05,
+                                        "TotalMilliseconds":  37.1364,
+                                        "TotalMinutes":  0.00061894,
+                                        "TotalSeconds":  0.0371364
                                     },
                            "FailureMessage":  "",
                            "StackTrace":  "",
@@ -419,17 +419,17 @@
                            "Result":  "Passed",
                            "Passed":  true,
                            "Time":  {
-                                        "Ticks":  417053,
+                                        "Ticks":  546829,
                                         "Days":  0,
                                         "Hours":  0,
-                                        "Milliseconds":  41,
+                                        "Milliseconds":  54,
                                         "Minutes":  0,
                                         "Seconds":  0,
-                                        "TotalDays":  4.8270023148148142E-07,
-                                        "TotalHours":  1.1584805555555556E-05,
-                                        "TotalMilliseconds":  41.7053,
-                                        "TotalMinutes":  0.00069508833333333333,
-                                        "TotalSeconds":  0.0417053
+                                        "TotalDays":  6.3290393518518511E-07,
+                                        "TotalHours":  1.5189694444444443E-05,
+                                        "TotalMilliseconds":  54.682900000000004,
+                                        "TotalMinutes":  0.0009113816666666667,
+                                        "TotalSeconds":  0.0546829
                                     },
                            "FailureMessage":  "",
                            "StackTrace":  "",
@@ -441,296 +441,266 @@
                        }
                    ],
     "CodeCoverage":  {
-                         "NumberOfCommandsAnalyzed":  66,
+                         "NumberOfCommandsAnalyzed":  61,
                          "NumberOfFilesAnalyzed":  1,
                          "NumberOfCommandsExecuted":  18,
-                         "NumberOfCommandsMissed":  48,
+                         "NumberOfCommandsMissed":  43,
                          "MissedCommands":  [
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  41,
+                                                    "Line":  40,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$GitHubRepo = $null"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  42,
+                                                    "Line":  41,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "if($ProjectUri.OriginalString.StartsWith(\"https://github.com\")) {\r\n                $GitHubRepo = $ProjectUri.AbsolutePath\r\n            } else {\r\n                $name=$ProjectUri.LocalPath.split(\u0027/\u0027)[-1]\r\n                Write-Output (\"Module [{0}]: not installed, it is not hosted on GitHub \" -f $name)\r\n            }"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  43,
+                                                    "Line":  42,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$GitHubRepo = $ProjectUri.AbsolutePath"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  45,
+                                                    "Line":  44,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$name=$ProjectUri.LocalPath.split(\u0027/\u0027)[-1]"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  46,
+                                                    "Line":  45,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Write-Output (\"Module [{0}]: not installed, it is not hosted on GitHub \" -f $name)"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  46,
+                                                    "Line":  45,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "\"Module [{0}]: not installed, it is not hosted on GitHub \" -f $name"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  64,
+                                                    "Line":  63,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Invoke-RestMethod $url -OutFile $OutFile"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  69,
+                                                    "Line":  68,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Unblock-File $OutFile"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  72,
+                                                    "Line":  71,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$outDirectory = New-Item -Path $tmpDir -Name $targetModuleName -ItemType \"directory\" -Force"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  73,
+                                                    "Line":  72,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Expand-Archive -Path $OutFile -DestinationPath $outDirectory -Force"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  74,
+                                                    "Line":  73,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Write-Debug \"targetModule: $targetModuleName\""
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  76,
-                                                    "Function":  "Install-ModuleGit",
-                                                    "Command":  "if ($IsLinux -or $IsOSX) {\r\n                  $dest = Join-Path -Path $HOME -ChildPath \".local/share/powershell/Modules\"\r\n                }\r\n\r\n                else {\r\n                  $dest = \u0027C:\\Program Files\\WindowsPowerShell\\Modules\u0027\r\n                }"
-                                                },
-                                                {
-                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  77,
-                                                    "Function":  "Install-ModuleGit",
-                                                    "Command":  "$dest = Join-Path -Path $HOME -ChildPath \".local/share/powershell/Modules\""
-                                                },
-                                                {
-                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  81,
-                                                    "Function":  "Install-ModuleGit",
-                                                    "Command":  "$dest = \u0027C:\\Program Files\\WindowsPowerShell\\Modules\u0027"
-                                                },
-                                                {
-                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  84,
-                                                    "Function":  "Install-ModuleGit",
-                                                    "Command":  "if($DestinationPath) {\r\n                    $dest = $DestinationPath\r\n                }"
-                                                },
-                                                {
-                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  85,
-                                                    "Function":  "Install-ModuleGit",
-                                                    "Command":  "$dest = $DestinationPath"
-                                                },
-                                                {
-                                                    "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  88,
+                                                    "Line":  75,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "if ($IsLinux -or $IsOSX) {\r\n                  $destPathArray = $env:PSModulePath.Split(\":\")\r\n                }\r\n\r\n                else {\r\n                  $destPathArray = $env:PSModulePath.Split(\"{;}\")\r\n                }"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  89,
+                                                    "Line":  76,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$destPathArray = $env:PSModulePath.Split(\":\")"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  93,
+                                                    "Line":  80,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$destPathArray = $env:PSModulePath.Split(\"{;}\")"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  97,
+                                                    "Line":  84,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Write-Debug \"Current value of -Scope: $Scope\""
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  98,
+                                                    "Line":  85,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "if ($Scope -eq \u0027AllUsers\u0027) {\r\n\t\t\t\t\t$scopeDest = \u0027\\ProgramFiles\\WindowsPowerShell\\Modules\u0027\r\n\t\t\t\t}\r\n\t\t\t\telse {\r\n\t\t\t\t\t$scopeDest = $HOME\r\n\t\t\t\t}"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  99,
+                                                    "Line":  86,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$scopeDest = \u0027\\ProgramFiles\\WindowsPowerShell\\Modules\u0027"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  102,
+                                                    "Line":  89,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$scopeDest = $HOME"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  104,
+                                                    "Line":  91,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Write-Debug \"Current scope dest: $scopeDest\""
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  106,
+                                                    "Line":  93,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$destPathArray"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  107,
+                                                    "Line":  94,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "if ($_.Contains($scopeDest)) {\r\n\t\t\t\t\t\t$dest = $_\r\n\t\t\t\t\t\tbreak\r\n\t\t\t\t\t}"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  108,
+                                                    "Line":  95,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$dest = $_"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  112,
+                                                    "Line":  99,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Write-Debug \"Current dest: $dest\""
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  114,
+                                                    "Line":  101,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$psd1Modules = @(Get-ChildItem -Path $outDirectory -Include *.psd1 -Recurse)"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  114,
+                                                    "Line":  101,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Get-ChildItem -Path $outDirectory -Include *.psd1 -Recurse"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  116,
+                                                    "Line":  103,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$psd1Modules"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  117,
+                                                    "Line":  104,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$moduleDest = Join-Path -Path $_.Name.split(\u0027.\u0027)[0] -ChildPath (Import-PowerShellDataFile $_.FullName).ModuleVersion"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  117,
+                                                    "Line":  104,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Import-PowerShellDataFile $_.FullName"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  118,
+                                                    "Line":  105,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$moduleDest = Join-Path -Path $dest -ChildPath $moduleDest"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  119,
+                                                    "Line":  106,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "if (Test-Path $moduleDest) { Remove-Item -Path $moduleDest -Recurse }"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  119,
+                                                    "Line":  106,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Remove-Item -Path $moduleDest -Recurse"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  120,
+                                                    "Line":  107,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Copy-Item $_.DirectoryName -Destination $moduleDest -Recurse -Force"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  123,
+                                                    "Line":  110,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$dest = Join-Path -Path $dest -ChildPath $targetModuleName"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  124,
+                                                    "Line":  111,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Write-Debug \"dest: $dest\""
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  126,
+                                                    "Line":  113,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "if ($psd1Modules.Count -eq 0) {\r\n\t\t\t\t\tWhile ($outDirectory.GetDirectories().Length -eq 1 -and $outDirectory.GetFiles().Length -eq 0) {\r\n\t\t\t\t\t\t$outDirectory = (Get-ChildItem $outDirectory)\r\n\t\t\t\t\t\tif (Test-Path $dest) {\r\n\t\t\t\t\t\t\tGet-ChildItem -Path $dest -Recurse | Remove-Item -Recurse -Force\r\n\t\t\t\t\t\t\tRemove-Item $dest -Force\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\t\tCopy-Item -Path $outDirectory.FullName -Destination $dest -Force -Recurse\r\n\t\t\t\t\t}\r\n\t\t\t\t}"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  127,
+                                                    "Line":  114,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$outDirectory.GetDirectories().Length -eq 1 -and $outDirectory.GetFiles().Length -eq 0"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  128,
+                                                    "Line":  115,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "$outDirectory = (Get-ChildItem $outDirectory)"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  128,
+                                                    "Line":  115,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Get-ChildItem $outDirectory"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  129,
+                                                    "Line":  116,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "if (Test-Path $dest) {\r\n\t\t\t\t\t\t\tGet-ChildItem -Path $dest -Recurse | Remove-Item -Recurse -Force\r\n\t\t\t\t\t\t\tRemove-Item $dest -Force\r\n\t\t\t\t\t\t}"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  130,
+                                                    "Line":  117,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Get-ChildItem -Path $dest -Recurse"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  130,
+                                                    "Line":  117,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Remove-Item -Recurse -Force"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  131,
+                                                    "Line":  118,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Remove-Item $dest -Force"
                                                 },
                                                 {
                                                     "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                    "Line":  133,
+                                                    "Line":  120,
                                                     "Function":  "Install-ModuleGit",
                                                     "Command":  "Copy-Item -Path $outDirectory.FullName -Destination $dest -Force -Recurse"
                                                 }
@@ -762,85 +732,85 @@
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  40,
+                                                 "Line":  39,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "if($PSBoundParameters.ContainsKey(\"ProjectUri\")) {\r\n            $GitHubRepo = $null\r\n            if($ProjectUri.OriginalString.StartsWith(\"https://github.com\")) {\r\n                $GitHubRepo = $ProjectUri.AbsolutePath\r\n            } else {\r\n                $name=$ProjectUri.LocalPath.split(\u0027/\u0027)[-1]\r\n                Write-Output (\"Module [{0}]: not installed, it is not hosted on GitHub \" -f $name)\r\n            }\r\n        }"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  50,
+                                                 "Line":  49,
                                                  "Function":  "Install-ModuleGit",
-                                                 "Command":  "if($GitHubRepo) {\r\n                Write-Verbose (\"[$(Get-Date)] Retrieving {0} {1}\" -f $GitHubRepo, $Branch)\r\n\r\n                $url = \"https://github.com/{0}/archive/{1}.zip\" -f $GitHubRepo, $Branch\r\n                $targetModuleName=$GitHubRepo.split(\u0027/\u0027)[-1]\r\n                Write-Debug \"targetModuleName: $targetModuleName\"\r\n\r\n                $tmpDir = [System.IO.Path]::GetTempPath()\r\n\r\n                $OutFile = Join-Path -Path $tmpDir -ChildPath \"$($targetModuleName).zip\"\r\n                Write-Debug \"OutFile: $OutFile\"\r\n\r\n\r\n                if ($IsLinux -or $IsOSX) {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                }\r\n\r\n                else {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                  Unblock-File $OutFile\r\n                }\r\n\t\t\t\t\r\n\t\t\t\t$outDirectory = New-Item -Path $tmpDir -Name $targetModuleName -ItemType \"directory\" -Force\r\n                Expand-Archive -Path $OutFile -DestinationPath $outDirectory -Force\r\n                Write-Debug \"targetModule: $targetModuleName\"\r\n\r\n                if ($IsLinux -or $IsOSX) {\r\n                  $dest = Join-Path -Path $HOME -ChildPath \".local/share/powershell/Modules\"\r\n                }\r\n\r\n                else {\r\n                  $dest = \u0027C:\\Program Files\\WindowsPowerShell\\Modules\u0027\r\n                }\r\n\r\n                if($DestinationPath) {\r\n                    $dest = $DestinationPath\r\n                }\r\n\t\t\t\t\r\n\t\t\t\tif ($IsLinux -or $IsOSX) {\r\n                  $destPathArray = $env:PSModulePath.Split(\":\")\r\n                }\r\n\r\n                else {\r\n                  $destPathArray = $env:PSModulePath.Split(\"{;}\")\r\n                }\r\n\t\t\t\t\r\n\t\t\t\t# Selecting which scope we\u0027ll go for\r\n\t\t\t\tWrite-Debug \"Current value of -Scope: $Scope\"\r\n\t\t\t\tif ($Scope -eq \u0027AllUsers\u0027) {\r\n\t\t\t\t\t$scopeDest = \u0027\\ProgramFiles\\WindowsPowerShell\\Modules\u0027\r\n\t\t\t\t}\r\n\t\t\t\telse {\r\n\t\t\t\t\t$scopeDest = $HOME\r\n\t\t\t\t}\r\n\t\t\t\tWrite-Debug \"Current scope dest: $scopeDest\" \r\n\t\t\t\t\r\n\t\t\t\tforeach ($_ in $destPathArray) {\r\n\t\t\t\t\tif ($_.Contains($scopeDest)) {\r\n\t\t\t\t\t\t$dest = $_\r\n\t\t\t\t\t\tbreak\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t\tWrite-Debug \"Current dest: $dest\"\r\n\t\t\t\t\r\n\t\t\t\t$psd1Modules = @(Get-ChildItem -Path $outDirectory -Include *.psd1 -Recurse)\r\n\t\t\t\t\r\n\t\t\t\tforeach ($_ in $psd1Modules) {\r\n\t\t\t\t\t$moduleDest = Join-Path -Path $_.Name.split(\u0027.\u0027)[0] -ChildPath (Import-PowerShellDataFile $_.FullName).ModuleVersion\r\n\t\t\t\t\t$moduleDest = Join-Path -Path $dest -ChildPath $moduleDest\r\n\t\t\t\t\tif (Test-Path $moduleDest) { Remove-Item -Path $moduleDest -Recurse }\r\n\t\t\t\t\tCopy-Item $_.DirectoryName -Destination $moduleDest -Recurse -Force\r\n\t\t\t\t}\r\n\t\t\t\t\r\n\t\t\t\t$dest = Join-Path -Path $dest -ChildPath $targetModuleName\r\n\t\t\t\tWrite-Debug \"dest: $dest\"\r\n\t\t\t\t\r\n\t\t\t\tif ($psd1Modules.Count -eq 0) {\r\n\t\t\t\t\tWhile ($outDirectory.GetDirectories().Length -eq 1 -and $outDirectory.GetFiles().Length -eq 0) {\r\n\t\t\t\t\t\t$outDirectory = (Get-ChildItem $outDirectory)\r\n\t\t\t\t\t\tif (Test-Path $dest) {\r\n\t\t\t\t\t\t\tGet-ChildItem -Path $dest -Recurse | Remove-Item -Recurse -Force\r\n\t\t\t\t\t\t\tRemove-Item $dest -Force\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\t\tCopy-Item -Path $outDirectory.FullName -Destination $dest -Force -Recurse\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t\t\r\n        }"
+                                                 "Command":  "if($GitHubRepo) {\r\n                Write-Verbose (\"[$(Get-Date)] Retrieving {0} {1}\" -f $GitHubRepo, $Branch)\r\n\r\n                $url = \"https://github.com/{0}/archive/{1}.zip\" -f $GitHubRepo, $Branch\r\n                $targetModuleName=$GitHubRepo.split(\u0027/\u0027)[-1]\r\n                Write-Debug \"targetModuleName: $targetModuleName\"\r\n\r\n                $tmpDir = [System.IO.Path]::GetTempPath()\r\n\r\n                $OutFile = Join-Path -Path $tmpDir -ChildPath \"$($targetModuleName).zip\"\r\n                Write-Debug \"OutFile: $OutFile\"\r\n\r\n\r\n                if ($IsLinux -or $IsOSX) {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                }\r\n\r\n                else {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                  Unblock-File $OutFile\r\n                }\r\n\t\t\t\t\r\n\t\t\t\t$outDirectory = New-Item -Path $tmpDir -Name $targetModuleName -ItemType \"directory\" -Force\r\n                Expand-Archive -Path $OutFile -DestinationPath $outDirectory -Force\r\n                Write-Debug \"targetModule: $targetModuleName\"\r\n\t\t\t\t\r\n\t\t\t\tif ($IsLinux -or $IsOSX) {\r\n                  $destPathArray = $env:PSModulePath.Split(\":\")\r\n                }\r\n\r\n                else {\r\n                  $destPathArray = $env:PSModulePath.Split(\"{;}\")\r\n                }\r\n\t\t\t\t\r\n\t\t\t\t# Selecting which scope we\u0027ll go for\r\n\t\t\t\tWrite-Debug \"Current value of -Scope: $Scope\"\r\n\t\t\t\tif ($Scope -eq \u0027AllUsers\u0027) {\r\n\t\t\t\t\t$scopeDest = \u0027\\ProgramFiles\\WindowsPowerShell\\Modules\u0027\r\n\t\t\t\t}\r\n\t\t\t\telse {\r\n\t\t\t\t\t$scopeDest = $HOME\r\n\t\t\t\t}\r\n\t\t\t\tWrite-Debug \"Current scope dest: $scopeDest\" \r\n\t\t\t\t\r\n\t\t\t\tforeach ($_ in $destPathArray) {\r\n\t\t\t\t\tif ($_.Contains($scopeDest)) {\r\n\t\t\t\t\t\t$dest = $_\r\n\t\t\t\t\t\tbreak\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t\tWrite-Debug \"Current dest: $dest\"\r\n\t\t\t\t\r\n\t\t\t\t$psd1Modules = @(Get-ChildItem -Path $outDirectory -Include *.psd1 -Recurse)\r\n\t\t\t\t\r\n\t\t\t\tforeach ($_ in $psd1Modules) {\r\n\t\t\t\t\t$moduleDest = Join-Path -Path $_.Name.split(\u0027.\u0027)[0] -ChildPath (Import-PowerShellDataFile $_.FullName).ModuleVersion\r\n\t\t\t\t\t$moduleDest = Join-Path -Path $dest -ChildPath $moduleDest\r\n\t\t\t\t\tif (Test-Path $moduleDest) { Remove-Item -Path $moduleDest -Recurse }\r\n\t\t\t\t\tCopy-Item $_.DirectoryName -Destination $moduleDest -Recurse -Force\r\n\t\t\t\t}\r\n\t\t\t\t\r\n\t\t\t\t$dest = Join-Path -Path $dest -ChildPath $targetModuleName\r\n\t\t\t\tWrite-Debug \"dest: $dest\"\r\n\t\t\t\t\r\n\t\t\t\tif ($psd1Modules.Count -eq 0) {\r\n\t\t\t\t\tWhile ($outDirectory.GetDirectories().Length -eq 1 -and $outDirectory.GetFiles().Length -eq 0) {\r\n\t\t\t\t\t\t$outDirectory = (Get-ChildItem $outDirectory)\r\n\t\t\t\t\t\tif (Test-Path $dest) {\r\n\t\t\t\t\t\t\tGet-ChildItem -Path $dest -Recurse | Remove-Item -Recurse -Force\r\n\t\t\t\t\t\t\tRemove-Item $dest -Force\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\t\tCopy-Item -Path $outDirectory.FullName -Destination $dest -Force -Recurse\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t\t\r\n        }"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  51,
+                                                 "Line":  50,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "Write-Verbose (\"[$(Get-Date)] Retrieving {0} {1}\" -f $GitHubRepo, $Branch)"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  51,
+                                                 "Line":  50,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "\"[$(Get-Date)] Retrieving {0} {1}\" -f $GitHubRepo, $Branch"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  51,
+                                                 "Line":  50,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "Get-Date"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  53,
+                                                 "Line":  52,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "$url = \"https://github.com/{0}/archive/{1}.zip\" -f $GitHubRepo, $Branch"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  54,
+                                                 "Line":  53,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "$targetModuleName=$GitHubRepo.split(\u0027/\u0027)[-1]"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  55,
+                                                 "Line":  54,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "Write-Debug \"targetModuleName: $targetModuleName\""
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  57,
+                                                 "Line":  56,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "$tmpDir = [System.IO.Path]::GetTempPath()"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  59,
+                                                 "Line":  58,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "$OutFile = Join-Path -Path $tmpDir -ChildPath \"$($targetModuleName).zip\""
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  59,
+                                                 "Line":  58,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "$targetModuleName"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  60,
+                                                 "Line":  59,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "Write-Debug \"OutFile: $OutFile\""
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  63,
+                                                 "Line":  62,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "if ($IsLinux -or $IsOSX) {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                }\r\n\r\n                else {\r\n                  Invoke-RestMethod $url -OutFile $OutFile\r\n                  Unblock-File $OutFile\r\n                }"
                                              },
                                              {
                                                  "File":  "C:\\git\\InstallGitModule\\InstallGitModule\\Public\\Install-ModuleGit.ps1",
-                                                 "Line":  68,
+                                                 "Line":  67,
                                                  "Function":  "Install-ModuleGit",
                                                  "Command":  "Invoke-RestMethod $url -OutFile $OutFile"
                                              }
