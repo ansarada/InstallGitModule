@@ -11,5 +11,5 @@ Describe "Public/Install-ModuleGit" {
 	It "Github URL does not exist" {
 		{ Install-ModuleGit -GitHubRepo Its-a/Fake } | Should Throw
 	}
-	
+
 }

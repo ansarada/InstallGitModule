@@ -124,6 +124,3 @@ function Install-ModuleGit {
         }
     }
 }
-
-# Install-PSModuleFromGitHub dfinke/nameit
-# Install-PSModuleFromGitHub dfinke/nameit TestBranch
