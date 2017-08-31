@@ -12,7 +12,7 @@
 RootModule = 'InstallGitModule.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.0.2'
+ModuleVersion = '0.0.0.3'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -95,19 +95,22 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        # Tags = @()
+        Tags = @("GitHub","Install","PowerShell","Module")
 
         # A URL to the license for this module.
-        # LicenseUri = ''
+        LicenseUri = 'https://github.com/ansarada/InstallGitModule/blob/master/LICENSE.txt'
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/ansarada/InstallGitModule'
 
         # A URL to an icon representing this module.
         # IconUri = ''
 
         # ReleaseNotes of this module
         # ReleaseNotes = ''
+		
+		# Indicates this is a pre-release/testing version of the module.
+        IsPrerelease = 'False'
 
     } # End of PSData hashtable
 
