@@ -60,24 +60,36 @@ function Install-ModuleGit {
 
 
                 if ($IsLinux -or $IsOSX) {
-                  Invoke-RestMethod $url -OutFile $OutFile
+					Invoke-RestMethod $url -OutFile $OutFile
                 }
 
                 else {
-                  Invoke-RestMethod $url -OutFile $OutFile
-                  Unblock-File $OutFile
+					Invoke-RestMethod $url -OutFile $OutFile
+					Unblock-File $OutFile
                 }
 				
 				$outDirectory = New-Item -Path $tmpDir -Name $targetModuleName -ItemType "directory" -Force
                 Expand-Archive -Path $OutFile -DestinationPath $outDirectory -Force
                 Write-Debug "targetModule: $targetModuleName"
 				
+				if (Get-Module $targetModuleName) {
+					Write-Debug "You already have this module loaded. Trying to unload."
+					if (Get-ChildItem (Get-Module -ListAvailable $targetModuleName).ModuleBase -Recurse -Include *.dll) {
+						Write-Debug "This module has a .dll and so thus can't be safely unloaded to be overwritten. You'll need to make sure you don't have it loaded before you attempt to install over it."	
+						return
+					}
+					else {
+						Write-Debug "Hopefully removed the problem."
+						Remove-Module $targetModuleName
+					}
+				}
+				
 				if ($IsLinux -or $IsOSX) {
-                  $destPathArray = $env:PSModulePath.Split(":")
+					$destPathArray = $env:PSModulePath.Split(":")
                 }
 
                 else {
-                  $destPathArray = $env:PSModulePath.Split("{;}")
+					$destPathArray = $env:PSModulePath.Split("{;}")
                 }
 				
 				# Selecting which scope we'll go for
